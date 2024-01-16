@@ -102,3 +102,4 @@ C:\Users\משתמש זה\3D Objects\prakticode\TodoApi\obj\Debug\net8.0\refint\T
 C:\Users\משתמש זה\3D Objects\prakticode\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 C:\Users\משתמש זה\3D Objects\prakticode\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\משתמש זה\3D Objects\prakticode\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\משתמש זה\3D Objects\prakticode\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
